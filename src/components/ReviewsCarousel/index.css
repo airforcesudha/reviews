@@ -1,0 +1,21 @@
+.main-page {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/reviews-bg.png');
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.inner-part {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.profilePart {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
